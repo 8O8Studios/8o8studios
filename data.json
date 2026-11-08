@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:24:33.543Z",
+ "updated": "2026-11-08T13:15:42.712Z",
  "groups": [
   {
    "id": 32663795,
@@ -47,7 +47,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7424,
+     "favorites": 7426,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -157,7 +157,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7424,
+     "favorites": 7426,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -303,7 +303,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7424,
+     "favorites": 7426,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -3555,7 +3555,7 @@
     {
      "id": 107920884284723,
      "name": "Pillow 😴",
-     "favorites": 908,
+     "favorites": 909,
      "price": 65,
      "priceStatus": null,
      "description": "Comfy fluffy pillow! 🛏️\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4527,7 +4527,7 @@
     {
      "id": 14347405837,
      "name": "Emo 👻",
-     "favorites": 491,
+     "favorites": 492,
      "price": 95,
      "priceStatus": null,
      "description": "Emo\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4577,7 +4577,7 @@
     {
      "id": 107920884284723,
      "name": "Pillow 😴",
-     "favorites": 908,
+     "favorites": 909,
      "price": 65,
      "priceStatus": null,
      "description": "Comfy fluffy pillow! 🛏️\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4589,7 +4589,7 @@
     {
      "id": 14347405837,
      "name": "Emo 👻",
-     "favorites": 491,
+     "favorites": 492,
      "price": 95,
      "priceStatus": null,
      "description": "Emo\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4939,7 +4939,7 @@
     {
      "id": 107920884284723,
      "name": "Pillow 😴",
-     "favorites": 908,
+     "favorites": 909,
      "price": 65,
      "priceStatus": null,
      "description": "Comfy fluffy pillow! 🛏️\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4963,7 +4963,7 @@
     {
      "id": 14347405837,
      "name": "Emo 👻",
-     "favorites": 491,
+     "favorites": 492,
      "price": 95,
      "priceStatus": null,
      "description": "Emo\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -7924,7 +7924,7 @@
     {
      "id": 81967441883733,
      "name": "Brown Fluffy Boy Hair 🤎",
-     "favorites": 6,
+     "favorites": 7,
      "price": 65,
      "priceStatus": null,
      "description": "Fluffy!",
@@ -9136,7 +9136,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1394,
+     "favorites": 1397,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9498,7 +9498,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1394,
+     "favorites": 1397,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9786,7 +9786,7 @@
     {
      "id": 81967441883733,
      "name": "Brown Fluffy Boy Hair 🤎",
-     "favorites": 6,
+     "favorites": 7,
      "price": 65,
      "priceStatus": null,
      "description": "Fluffy!",
@@ -9860,7 +9860,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1394,
+     "favorites": 1397,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10290,6 +10290,18 @@
      "created": "2025-09-19T18:55:36.017Z"
     },
     {
+     "id": 81967441883733,
+     "name": "Brown Fluffy Boy Hair 🤎",
+     "favorites": 7,
+     "price": 65,
+     "priceStatus": null,
+     "description": "Fluffy!",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-e5f781c93a3b2a6d1ee084d335b759ea/420/420/HairAccessory/Png/noFilter",
+     "category": "Hair",
+     "created": "2026-10-05T21:05:10.259Z"
+    },
+    {
      "id": 115755288075605,
      "name": "Black Fluffy Boy Hair 🖤",
      "favorites": 7,
@@ -10312,18 +10324,6 @@
      "image": "https://tr.rbxcdn.com/180DAY-1cb08fb6d949dba487e44a50485d80c5/420/420/WaistAccessory/Png/noFilter",
      "category": "Waist Accessories",
      "created": "2026-09-30T17:40:09.381Z"
-    },
-    {
-     "id": 81967441883733,
-     "name": "Brown Fluffy Boy Hair 🤎",
-     "favorites": 6,
-     "price": 65,
-     "priceStatus": null,
-     "description": "Fluffy!",
-     "creator": "Mx8",
-     "image": "https://tr.rbxcdn.com/180DAY-e5f781c93a3b2a6d1ee084d335b759ea/420/420/HairAccessory/Png/noFilter",
-     "category": "Hair",
-     "created": "2026-10-05T21:05:10.259Z"
     },
     {
      "id": 117215590881441,
@@ -12941,7 +12941,7 @@
     {
      "id": 88199050158666,
      "name": "Sword",
-     "favorites": 817,
+     "favorites": 818,
      "price": 140,
      "priceStatus": null,
      "description": "Crafted From The Finest Molten Steel\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -13721,7 +13721,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7832,
+     "favorites": 7833,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -14947,7 +14947,7 @@
      "name": "Mask",
      "favorites": 233,
      "price": 0,
-     "priceStatus": "Off Sale",
+     "priceStatus": null,
      "description": "Galactic",
      "creator": "8O8Mph",
      "image": "https://tr.rbxcdn.com/180DAY-b4a700b16b77a86ae6407b50f2f2bbff/420/420/FaceAccessory/Png/noFilter",
@@ -15353,7 +15353,7 @@
     {
      "id": 15982641527,
      "name": "Mask ",
-     "favorites": 66,
+     "favorites": 67,
      "price": 95,
      "priceStatus": null,
      "description": "No face no case\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -15833,7 +15833,7 @@
     {
      "id": 15481897117,
      "name": "Money",
-     "favorites": 5115,
+     "favorites": 5116,
      "price": 55,
      "priceStatus": null,
      "description": "I wonder how many Robux i could buy with this....hmmm\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -16997,7 +16997,7 @@
     {
      "id": 14486178596,
      "name": "Devil Tail",
-     "favorites": 714,
+     "favorites": 715,
      "price": 65,
      "priceStatus": null,
      "description": "*Evil laugh*\n\nHorns:\nhttps://www.roblox.com/catalog/14486188919/Devil-Horns\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -17165,7 +17165,7 @@
     {
      "id": 14486194113,
      "name": "Devil Horns",
-     "favorites": 698,
+     "favorites": 699,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -17213,7 +17213,7 @@
     {
      "id": 14486188919,
      "name": "Devil Horns",
-     "favorites": 3939,
+     "favorites": 3941,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nTail: \nhttps://www.roblox.com/catalog/14486178596/Devil-Tail\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -17957,7 +17957,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 418,
+     "favorites": 419,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -18079,7 +18079,7 @@
     {
      "id": 15481897117,
      "name": "Money",
-     "favorites": 5115,
+     "favorites": 5116,
      "price": 55,
      "priceStatus": null,
      "description": "I wonder how many Robux i could buy with this....hmmm\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18091,7 +18091,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7832,
+     "favorites": 7833,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18103,7 +18103,7 @@
     {
      "id": 14486188919,
      "name": "Devil Horns",
-     "favorites": 3939,
+     "favorites": 3941,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nTail: \nhttps://www.roblox.com/catalog/14486178596/Devil-Tail\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18151,7 +18151,7 @@
     {
      "id": 14486194113,
      "name": "Devil Horns",
-     "favorites": 698,
+     "favorites": 699,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -18187,7 +18187,7 @@
     {
      "id": 14486178596,
      "name": "Devil Tail",
-     "favorites": 714,
+     "favorites": 715,
      "price": 65,
      "priceStatus": null,
      "description": "*Evil laugh*\n\nHorns:\nhttps://www.roblox.com/catalog/14486188919/Devil-Horns\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18223,7 +18223,7 @@
     {
      "id": 88199050158666,
      "name": "Sword",
-     "favorites": 817,
+     "favorites": 818,
      "price": 140,
      "priceStatus": null,
      "description": "Crafted From The Finest Molten Steel\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18259,7 +18259,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 418,
+     "favorites": 419,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -18441,7 +18441,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7832,
+     "favorites": 7833,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18465,7 +18465,7 @@
     {
      "id": 15481897117,
      "name": "Money",
-     "favorites": 5115,
+     "favorites": 5116,
      "price": 55,
      "priceStatus": null,
      "description": "I wonder how many Robux i could buy with this....hmmm\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18477,7 +18477,7 @@
     {
      "id": 14486188919,
      "name": "Devil Horns",
-     "favorites": 3939,
+     "favorites": 3941,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nTail: \nhttps://www.roblox.com/catalog/14486178596/Devil-Tail\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18561,7 +18561,7 @@
     {
      "id": 88199050158666,
      "name": "Sword",
-     "favorites": 817,
+     "favorites": 818,
      "price": 140,
      "priceStatus": null,
      "description": "Crafted From The Finest Molten Steel\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18585,7 +18585,7 @@
     {
      "id": 14486178596,
      "name": "Devil Tail",
-     "favorites": 714,
+     "favorites": 715,
      "price": 65,
      "priceStatus": null,
      "description": "*Evil laugh*\n\nHorns:\nhttps://www.roblox.com/catalog/14486188919/Devil-Horns\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18609,7 +18609,7 @@
     {
      "id": 14486194113,
      "name": "Devil Horns",
-     "favorites": 698,
+     "favorites": 699,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -18717,7 +18717,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 418,
+     "favorites": 419,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -18923,7 +18923,7 @@
      "name": "Mask",
      "favorites": 233,
      "price": 0,
-     "priceStatus": "Off Sale",
+     "priceStatus": null,
      "description": "Galactic",
      "creator": "8O8Mph",
      "image": "https://tr.rbxcdn.com/180DAY-b4a700b16b77a86ae6407b50f2f2bbff/420/420/FaceAccessory/Png/noFilter",
@@ -20025,7 +20025,7 @@
     {
      "id": 15982641527,
      "name": "Mask ",
-     "favorites": 66,
+     "favorites": 67,
      "price": 95,
      "priceStatus": null,
      "description": "No face no case\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -23833,14 +23833,14 @@
   {
    "id": 5948929,
    "name": "kwarm",
-   "memberCount": 973470,
+   "memberCount": 973510,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ee5928899b4e9c25822757759eec039e/150/150/Image/Png/noFilter"
   },
   {
    "id": 7498332,
    "name": "Round 2 NYC",
-   "memberCount": 438177,
+   "memberCount": 438175,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-802c67da49c945b82b69ea48a8e46413/150/150/Image/Png/noFilter"
   },
@@ -23854,14 +23854,14 @@
   {
    "id": 11636314,
    "name": "Astra's Army",
-   "memberCount": 633000,
+   "memberCount": 633115,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ef57596e8373177cdf112b39e300910c/150/150/Image/Png/noFilter"
   },
   {
    "id": 8108593,
    "name": "’kuma",
-   "memberCount": 28655,
+   "memberCount": 28656,
    "hasVerifiedBadge": false,
    "icon": "https://tr.rbxcdn.com/180DAY-0cf158df21f54657f1e123a1a708c858/150/150/Image/Png/noFilter"
   }
