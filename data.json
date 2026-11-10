@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:22:48.886Z",
+ "updated": "2026-11-10T07:32:43.052Z",
  "groups": [
   {
    "id": 32663795,
@@ -47,7 +47,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7457,
+     "favorites": 7460,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -157,7 +157,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7457,
+     "favorites": 7460,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -303,7 +303,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7457,
+     "favorites": 7460,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -2054,7 +2054,7 @@
     {
      "id": 17054003402,
      "name": "Princess Wand",
-     "favorites": 264,
+     "favorites": 265,
      "price": 140,
      "priceStatus": null,
      "description": "Sprinkling sparkling miracles with each spell!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&CreatorName=Slept%20On!&CreatorType=Group",
@@ -2308,7 +2308,7 @@
     {
      "id": 17054003402,
      "name": "Princess Wand",
-     "favorites": 264,
+     "favorites": 265,
      "price": 140,
      "priceStatus": null,
      "description": "Sprinkling sparkling miracles with each spell!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&CreatorName=Slept%20On!&CreatorType=Group",
@@ -2574,7 +2574,7 @@
     {
      "id": 17054003402,
      "name": "Princess Wand",
-     "favorites": 264,
+     "favorites": 265,
      "price": 140,
      "priceStatus": null,
      "description": "Sprinkling sparkling miracles with each spell!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&CreatorName=Slept%20On!&CreatorType=Group",
@@ -2841,7 +2841,7 @@
    "id": 16114977,
    "type": "Group",
    "name": "UGC Shack",
-   "memberCount": 7996,
+   "memberCount": 7994,
    "hasVerifiedBadge": false,
    "latest": [
     {
@@ -2943,7 +2943,7 @@
     {
      "id": 91540200037454,
      "name": "Cutesy Sit",
-     "favorites": 52,
+     "favorites": 51,
      "price": 55,
      "priceStatus": null,
      "description": "So cutesy!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4877,7 +4877,7 @@
     {
      "id": 91540200037454,
      "name": "Cutesy Sit",
-     "favorites": 52,
+     "favorites": 51,
      "price": 55,
      "priceStatus": null,
      "description": "So cutesy!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -5215,7 +5215,7 @@
     {
      "id": 91540200037454,
      "name": "Cutesy Sit",
-     "favorites": 52,
+     "favorites": 51,
      "price": 55,
      "priceStatus": null,
      "description": "So cutesy!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -6670,7 +6670,7 @@
    "id": 564029410,
    "type": "Group",
    "name": "Mx8",
-   "memberCount": 42,
+   "memberCount": 43,
    "hasVerifiedBadge": false,
    "latest": [
     {
@@ -9412,7 +9412,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 194,
+     "favorites": 195,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9510,7 +9510,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 194,
+     "favorites": 195,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9872,7 +9872,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 194,
+     "favorites": 195,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -13865,7 +13865,7 @@
     {
      "id": 16780498735,
      "name": "Battery Pack",
-     "favorites": 241,
+     "favorites": 242,
      "price": 140,
      "priceStatus": null,
      "description": "Charged up and ready to rumble!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -16855,7 +16855,7 @@
      "name": "Escape Route Chain",
      "favorites": 9,
      "price": 100,
-     "priceStatus": null,
+     "priceStatus": "Off Sale",
      "description": "yes",
      "creator": "8O8Mph",
      "image": "https://tr.rbxcdn.com/180DAY-924f9f5706bf524387557340f726f9bc/420/420/NeckAccessory/Png/noFilter",
@@ -17729,7 +17729,7 @@
     {
      "id": 14000308086,
      "name": "Guitar",
-     "favorites": 5317,
+     "favorites": 5318,
      "price": 140,
      "priceStatus": null,
      "description": "JAM OUT ALL DAY AND NIGHT!!!\n\nBlack Version:\nhttps://www.roblox.com/catalog/13975422919/Guitar\nWhite Version:\nhttps://www.roblox.com/catalog/13975422919/Guitar\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&Creatorname=8o8mph",
@@ -17897,7 +17897,7 @@
     {
      "id": 13881688819,
      "name": "Cat",
-     "favorites": 1284,
+     "favorites": 1283,
      "price": 95,
      "priceStatus": null,
      "description": "Hes just trying to have a nap on your head!\n\nBlack Version: https://www.roblox.com/catalog/13853205661/Cat\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1\n\nPlay my game to try it on!!!!\nhttps://www.roblox.com/games/13898390191/WIP-8O8-UGC-Store",
@@ -18139,7 +18139,7 @@
     {
      "id": 14000308086,
      "name": "Guitar",
-     "favorites": 5317,
+     "favorites": 5318,
      "price": 140,
      "priceStatus": null,
      "description": "JAM OUT ALL DAY AND NIGHT!!!\n\nBlack Version:\nhttps://www.roblox.com/catalog/13975422919/Guitar\nWhite Version:\nhttps://www.roblox.com/catalog/13975422919/Guitar\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&Creatorname=8o8mph",
@@ -18235,7 +18235,7 @@
     {
      "id": 13881688819,
      "name": "Cat",
-     "favorites": 1284,
+     "favorites": 1283,
      "price": 95,
      "priceStatus": null,
      "description": "Hes just trying to have a nap on your head!\n\nBlack Version: https://www.roblox.com/catalog/13853205661/Cat\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1\n\nPlay my game to try it on!!!!\nhttps://www.roblox.com/games/13898390191/WIP-8O8-UGC-Store",
@@ -18453,7 +18453,7 @@
     {
      "id": 14000308086,
      "name": "Guitar",
-     "favorites": 5317,
+     "favorites": 5318,
      "price": 140,
      "priceStatus": null,
      "description": "JAM OUT ALL DAY AND NIGHT!!!\n\nBlack Version:\nhttps://www.roblox.com/catalog/13975422919/Guitar\nWhite Version:\nhttps://www.roblox.com/catalog/13975422919/Guitar\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&Creatorname=8o8mph",
@@ -18513,7 +18513,7 @@
     {
      "id": 13881688819,
      "name": "Cat",
-     "favorites": 1284,
+     "favorites": 1283,
      "price": 95,
      "priceStatus": null,
      "description": "Hes just trying to have a nap on your head!\n\nBlack Version: https://www.roblox.com/catalog/13853205661/Cat\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1\n\nPlay my game to try it on!!!!\nhttps://www.roblox.com/games/13898390191/WIP-8O8-UGC-Store",
@@ -18873,7 +18873,7 @@
     {
      "id": 16780498735,
      "name": "Battery Pack",
-     "favorites": 241,
+     "favorites": 242,
      "price": 140,
      "priceStatus": null,
      "description": "Charged up and ready to rumble!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -22607,7 +22607,7 @@
      "name": "Escape Route Chain",
      "favorites": 9,
      "price": 100,
-     "priceStatus": null,
+     "priceStatus": "Off Sale",
      "description": "yes",
      "creator": "8O8Mph",
      "image": "https://tr.rbxcdn.com/180DAY-924f9f5706bf524387557340f726f9bc/420/420/NeckAccessory/Png/noFilter",
@@ -23833,7 +23833,7 @@
   {
    "id": 5948929,
    "name": "kwarm",
-   "memberCount": 973537,
+   "memberCount": 973550,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ee5928899b4e9c25822757759eec039e/150/150/Image/Png/noFilter"
   },
@@ -23854,14 +23854,14 @@
   {
    "id": 11636314,
    "name": "Astra's Army",
-   "memberCount": 633337,
+   "memberCount": 633340,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ef57596e8373177cdf112b39e300910c/150/150/Image/Png/noFilter"
   },
   {
    "id": 8108593,
    "name": "’kuma",
-   "memberCount": 28671,
+   "memberCount": 28673,
    "hasVerifiedBadge": false,
    "icon": "https://tr.rbxcdn.com/180DAY-0cf158df21f54657f1e123a1a708c858/150/150/Image/Png/noFilter"
   }
