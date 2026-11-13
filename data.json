@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:36:50.147Z",
+ "updated": "2026-11-13T13:32:53.786Z",
  "groups": [
   {
    "id": 32663795,
@@ -47,7 +47,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7490,
+     "favorites": 7492,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -157,7 +157,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7490,
+     "favorites": 7492,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -303,7 +303,7 @@
     {
      "id": 14760357601,
      "name": "Pumpkin",
-     "favorites": 7490,
+     "favorites": 7492,
      "price": 90,
      "priceStatus": null,
      "description": "Goofy Roblox Face Pumpkin <:\n(Model By @DrCrowded)\n(Uploaded By @8O8Mph)",
@@ -1069,7 +1069,7 @@
     {
      "id": 15559877987,
      "name": "Elf Hat",
-     "favorites": 1,
+     "favorites": 2,
      "price": 95,
      "priceStatus": null,
      "description": "🎅Helping Santa make miracles real!\n\n🛍️More colours here:\nhttps://www.roblox.com/catalog?Keyword=elf%20hat&Category=1&CreatorName=One%20Stop%20Shop!&CreatorType=Group&salesTypeFilter=1\n\nJoin the group for more!",
@@ -1935,6 +1935,18 @@
      "created": "2023-12-04T21:02:05.493Z"
     },
     {
+     "id": 15559877987,
+     "name": "Elf Hat",
+     "favorites": 2,
+     "price": 95,
+     "priceStatus": null,
+     "description": "🎅Helping Santa make miracles real!\n\n🛍️More colours here:\nhttps://www.roblox.com/catalog?Keyword=elf%20hat&Category=1&CreatorName=One%20Stop%20Shop!&CreatorType=Group&salesTypeFilter=1\n\nJoin the group for more!",
+     "creator": "One Stop Shop!",
+     "image": "https://tr.rbxcdn.com/180DAY-c26bf95a40485fda98138a7a7eadc11d/420/420/Hat/Png/noFilter",
+     "category": "Hats",
+     "created": "2023-12-06T14:04:51.263Z"
+    },
+    {
      "id": 15547443135,
      "name": "Hat",
      "favorites": 1,
@@ -2005,18 +2017,6 @@
      "image": "https://tr.rbxcdn.com/180DAY-1e926cdd59fa0341d96fe316b5ca421b/420/420/Hat/Png/noFilter",
      "category": "Hats",
      "created": "2023-12-04T21:00:47.49Z"
-    },
-    {
-     "id": 15559877987,
-     "name": "Elf Hat",
-     "favorites": 1,
-     "price": 95,
-     "priceStatus": null,
-     "description": "🎅Helping Santa make miracles real!\n\n🛍️More colours here:\nhttps://www.roblox.com/catalog?Keyword=elf%20hat&Category=1&CreatorName=One%20Stop%20Shop!&CreatorType=Group&salesTypeFilter=1\n\nJoin the group for more!",
-     "creator": "One Stop Shop!",
-     "image": "https://tr.rbxcdn.com/180DAY-c26bf95a40485fda98138a7a7eadc11d/420/420/Hat/Png/noFilter",
-     "category": "Hats",
-     "created": "2023-12-06T14:04:51.263Z"
     },
     {
      "id": 15559869726,
@@ -4388,7 +4388,7 @@
      "priceStatus": null,
      "description": "🔥3.0 Matching:\nhttps://www.roblox.com/catalog/16308965251/Heart-Necklace-3-0\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
      "creator": "UGC Shack",
-     "image": "https://tr.rbxcdn.com/180DAY-4a4857eaa6d98706e878d702cbc6c7db/420/420/NeckAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-23b74d1a511ed9df94bdf3b27ab33a49/420/420/NeckAccessory/Png/noFilter",
      "category": "Neck Accessories",
      "created": "2024-02-10T09:31:30.197Z"
     },
@@ -4671,18 +4671,6 @@
      "created": "2023-08-09T15:55:02.777Z"
     },
     {
-     "id": 14347401304,
-     "name": "Crazy 🤪",
-     "favorites": 345,
-     "price": 95,
-     "priceStatus": null,
-     "description": "Crazy\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
-     "creator": "UGC Shack",
-     "image": "https://tr.rbxcdn.com/180DAY-21e11188a88eca89275ca8a1a7f78c19/420/420/Hat/Png/noFilter",
-     "category": "Hats",
-     "created": "2023-08-07T10:01:50.883Z"
-    },
-    {
      "id": 116852216515003,
      "name": "Guitar 🎸",
      "favorites": 201,
@@ -4693,6 +4681,18 @@
      "image": "https://tr.rbxcdn.com/180DAY-ee6edc06d60b21cc47ffea80631105c7/420/420/BackAccessory/Png/noFilter",
      "category": "Back Accessories",
      "created": "2025-10-23T19:14:27.687Z"
+    },
+    {
+     "id": 14347401304,
+     "name": "Crazy 🤪",
+     "favorites": 345,
+     "price": 95,
+     "priceStatus": null,
+     "description": "Crazy\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
+     "creator": "UGC Shack",
+     "image": "https://tr.rbxcdn.com/180DAY-21e11188a88eca89275ca8a1a7f78c19/420/420/Hat/Png/noFilter",
+     "category": "Hats",
+     "created": "2023-08-07T10:01:50.883Z"
     },
     {
      "id": 14358412652,
@@ -4798,7 +4798,7 @@
      "priceStatus": null,
      "description": "🔥3.0 Matching:\nhttps://www.roblox.com/catalog/16308965251/Heart-Necklace-3-0\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
      "creator": "UGC Shack",
-     "image": "https://tr.rbxcdn.com/180DAY-4a4857eaa6d98706e878d702cbc6c7db/420/420/NeckAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-23b74d1a511ed9df94bdf3b27ab33a49/420/420/NeckAccessory/Png/noFilter",
      "category": "Neck Accessories",
      "created": "2024-02-10T09:31:30.197Z"
     },
@@ -4863,18 +4863,6 @@
      "created": "2025-11-09T10:21:00.147Z"
     },
     {
-     "id": 14347415761,
-     "name": "Sad ☹️",
-     "favorites": 55,
-     "price": 95,
-     "priceStatus": null,
-     "description": "Sad\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
-     "creator": "UGC Shack",
-     "image": "https://tr.rbxcdn.com/180DAY-5878fa506b49faddfa592649090fd8cc/420/420/Hat/Png/noFilter",
-     "category": "Hats",
-     "created": "2023-08-07T10:03:46.933Z"
-    },
-    {
      "id": 107710340876545,
      "name": "Pizza 🍕",
      "favorites": 15,
@@ -4885,6 +4873,18 @@
      "image": "https://tr.rbxcdn.com/180DAY-5ff5fa61241bb6f101bfba2e06447bbb/420/420/Hat/Png/noFilter",
      "category": "Hats",
      "created": "2025-10-29T11:50:02.707Z"
+    },
+    {
+     "id": 14347415761,
+     "name": "Sad ☹️",
+     "favorites": 55,
+     "price": 95,
+     "priceStatus": null,
+     "description": "Sad\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
+     "creator": "UGC Shack",
+     "image": "https://tr.rbxcdn.com/180DAY-5878fa506b49faddfa592649090fd8cc/420/420/Hat/Png/noFilter",
+     "category": "Hats",
+     "created": "2023-08-07T10:03:46.933Z"
     },
     {
      "id": 91540200037454,
@@ -5148,7 +5148,7 @@
      "priceStatus": null,
      "description": "🔥3.0 Matching:\nhttps://www.roblox.com/catalog/16308965251/Heart-Necklace-3-0\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
      "creator": "UGC Shack",
-     "image": "https://tr.rbxcdn.com/180DAY-4a4857eaa6d98706e878d702cbc6c7db/420/420/NeckAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-23b74d1a511ed9df94bdf3b27ab33a49/420/420/NeckAccessory/Png/noFilter",
      "category": "Neck Accessories",
      "created": "2024-02-10T09:31:30.197Z"
     },
@@ -6674,6 +6674,102 @@
    "hasVerifiedBadge": false,
    "latest": [
     {
+     "id": 112869874063620,
+     "name": "White and Blue Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "White and Blue Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-12c2a0fdebfed623a15fee678c17d1e3/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:32:50.267Z"
+    },
+    {
+     "id": 120175419725065,
+     "name": "White and Red Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "White and Red Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-8a5ff1b1227a9d9b33e9b401ac83140e/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:25:49.098Z"
+    },
+    {
+     "id": 101844761431809,
+     "name": "White Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "White Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-859b284940729c4e4f47e0c2b03ab318/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:23:59.973Z"
+    },
+    {
+     "id": 135091869214314,
+     "name": "Blue Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Blue Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-27d67c3735523486705c7ea3af58b97a/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:17:25.071Z"
+    },
+    {
+     "id": 120925249064769,
+     "name": "Green and Red Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Green and Red Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-e6842a1f45b92112bbacf43acab72ea5/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:14:49.443Z"
+    },
+    {
+     "id": 130136203565858,
+     "name": "Green Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Green Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-c813d36f3719e61c4e13cd4e65a370de/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:04:01.86Z"
+    },
+    {
+     "id": 100642122180918,
+     "name": "Red And Green Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Red And Green Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-7e22b69cdd5a931fc36e7bf6378e6dcb/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:01:21.849Z"
+    },
+    {
+     "id": 95892739716784,
+     "name": "Red Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Red Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-d3b6c6c6c8a140487d885fd44866e5ed/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T14:58:07.58Z"
+    },
+    {
      "id": 72882993588690,
      "name": "Ushanka 💙",
      "favorites": 0,
@@ -9136,7 +9232,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1421,
+     "favorites": 1423,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9237,7 +9333,7 @@
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
      "creator": "Mx8",
-     "image": "https://tr.rbxcdn.com/180DAY-1a3db1df7c971eb657c3816966c3ddf1/420/420/HairAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-d23210563dd3bca407aba3f71e58e965/420/420/HairAccessory/Png/noFilter",
      "category": "Hair",
      "created": "2025-09-26T16:15:03.003Z"
     },
@@ -9498,7 +9594,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1421,
+     "favorites": 1423,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9604,18 +9700,6 @@
      "created": "2025-09-22T20:32:13.817Z"
     },
     {
-     "id": 111309142240873,
-     "name": "Ghost 👻",
-     "favorites": 13,
-     "price": 95,
-     "priceStatus": null,
-     "description": "🎃A frightning little fella!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
-     "creator": "Mx8",
-     "image": "https://tr.rbxcdn.com/180DAY-3352b93293449c457f2f91224dfa9f81/420/420/Hat/Png/noFilter",
-     "category": "Hats",
-     "created": "2025-10-12T10:11:37.903Z"
-    },
-    {
      "id": 92803426435697,
      "name": "Hair 🖤",
      "favorites": 54,
@@ -9626,6 +9710,18 @@
      "image": "https://tr.rbxcdn.com/180DAY-33b0c5d727cbd3fd262c8149ae870caf/420/420/HairAccessory/Png/noFilter",
      "category": "Hair",
      "created": "2025-09-26T16:13:42.97Z"
+    },
+    {
+     "id": 111309142240873,
+     "name": "Ghost 👻",
+     "favorites": 13,
+     "price": 95,
+     "priceStatus": null,
+     "description": "🎃A frightning little fella!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-3352b93293449c457f2f91224dfa9f81/420/420/Hat/Png/noFilter",
+     "category": "Hats",
+     "created": "2025-10-12T10:11:37.903Z"
     },
     {
      "id": 140050547902461,
@@ -9719,7 +9815,7 @@
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
      "creator": "Mx8",
-     "image": "https://tr.rbxcdn.com/180DAY-1a3db1df7c971eb657c3816966c3ddf1/420/420/HairAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-d23210563dd3bca407aba3f71e58e965/420/420/HairAccessory/Png/noFilter",
      "category": "Hair",
      "created": "2025-09-26T16:15:03.003Z"
     },
@@ -9860,7 +9956,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1421,
+     "favorites": 1423,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10021,7 +10117,7 @@
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
      "creator": "Mx8",
-     "image": "https://tr.rbxcdn.com/180DAY-1a3db1df7c971eb657c3816966c3ddf1/420/420/HairAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-d23210563dd3bca407aba3f71e58e965/420/420/HairAccessory/Png/noFilter",
      "category": "Hair",
      "created": "2025-09-26T16:15:03.003Z"
     },
@@ -11440,6 +11536,102 @@
      "image": "https://tr.rbxcdn.com/180DAY-43c8c3869e35904c3d05de77a116bdc2/420/420/Hat/Png/noFilter",
      "category": "Hats",
      "created": "2026-04-04T22:20:10.82Z"
+    },
+    {
+     "id": 112869874063620,
+     "name": "White and Blue Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "White and Blue Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-12c2a0fdebfed623a15fee678c17d1e3/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:32:50.267Z"
+    },
+    {
+     "id": 120175419725065,
+     "name": "White and Red Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "White and Red Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-8a5ff1b1227a9d9b33e9b401ac83140e/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:25:49.098Z"
+    },
+    {
+     "id": 101844761431809,
+     "name": "White Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "White Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-859b284940729c4e4f47e0c2b03ab318/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:23:59.973Z"
+    },
+    {
+     "id": 135091869214314,
+     "name": "Blue Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Blue Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-27d67c3735523486705c7ea3af58b97a/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:17:25.071Z"
+    },
+    {
+     "id": 120925249064769,
+     "name": "Green and Red Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Green and Red Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-e6842a1f45b92112bbacf43acab72ea5/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:14:49.443Z"
+    },
+    {
+     "id": 130136203565858,
+     "name": "Green Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Green Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-c813d36f3719e61c4e13cd4e65a370de/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:04:01.86Z"
+    },
+    {
+     "id": 100642122180918,
+     "name": "Red And Green Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Red And Green Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-7e22b69cdd5a931fc36e7bf6378e6dcb/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T15:01:21.849Z"
+    },
+    {
+     "id": 95892739716784,
+     "name": "Red Winter Scarf",
+     "favorites": 0,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Red Winter Scarf",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-d3b6c6c6c8a140487d885fd44866e5ed/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2026-11-04T14:58:07.58Z"
     },
     {
      "id": 72882993588690,
@@ -12941,7 +13133,7 @@
     {
      "id": 88199050158666,
      "name": "Sword",
-     "favorites": 824,
+     "favorites": 825,
      "price": 140,
      "priceStatus": null,
      "description": "Crafted From The Finest Molten Steel\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -13085,7 +13277,7 @@
     {
      "id": 135268465969951,
      "name": "Turtle Neck",
-     "favorites": 73,
+     "favorites": 74,
      "price": 55,
      "priceStatus": null,
      "description": "Keep your neck warm!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -13697,7 +13889,7 @@
     {
      "id": 17160776735,
      "name": "Duck",
-     "favorites": 796,
+     "favorites": 797,
      "price": 140,
      "priceStatus": null,
      "description": "Cute and cuddly\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -13733,7 +13925,7 @@
     {
      "id": 17151432379,
      "name": "Duck",
-     "favorites": 712,
+     "favorites": 713,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -14935,7 +15127,7 @@
      "name": "Mask",
      "favorites": 133,
      "price": 0,
-     "priceStatus": null,
+     "priceStatus": "Off Sale",
      "description": "Golden ",
      "creator": "8O8Mph",
      "image": "https://tr.rbxcdn.com/180DAY-b2b47eaa32843eec267a5241148ace38/420/420/FaceAccessory/Png/noFilter",
@@ -15550,7 +15742,7 @@
      "priceStatus": null,
      "description": "Works best with Dominus Formidulosus\nhttps://www.roblox.com/catalog/4255053867/Dominus-Formidulosus",
      "creator": "8O8Mph",
-     "image": "https://tr.rbxcdn.com/180DAY-c1ece4efbd1ac0d379f146b757d7559c/420/420/FaceAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-e2e40bc27e9a5b3aa8521f67413a66ac/420/420/FaceAccessory/Png/noFilter",
      "category": "Face Accessories",
      "created": "2024-01-06T10:20:20.69Z"
     },
@@ -17842,7 +18034,7 @@
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
      "creator": "8O8Mph",
-     "image": "https://tr.rbxcdn.com/180DAY-1ffdcbcd0be00ee20d921b95f26756a0/420/420/HairAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-042e6140ce2bf16e6848da191df12d6b/420/420/HairAccessory/Png/noFilter",
      "category": "Hair",
      "created": "2023-06-27T21:10:52.907Z"
     },
@@ -17957,7 +18149,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 420,
+     "favorites": 421,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -18175,7 +18367,7 @@
     {
      "id": 17160776735,
      "name": "Duck",
-     "favorites": 796,
+     "favorites": 797,
      "price": 140,
      "priceStatus": null,
      "description": "Cute and cuddly\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -18223,7 +18415,7 @@
     {
      "id": 88199050158666,
      "name": "Sword",
-     "favorites": 824,
+     "favorites": 825,
      "price": 140,
      "priceStatus": null,
      "description": "Crafted From The Finest Molten Steel\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18259,7 +18451,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 420,
+     "favorites": 421,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -18295,7 +18487,7 @@
     {
      "id": 17151432379,
      "name": "Duck",
-     "favorites": 712,
+     "favorites": 713,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18391,7 +18583,7 @@
     {
      "id": 135268465969951,
      "name": "Turtle Neck",
-     "favorites": 73,
+     "favorites": 74,
      "price": 55,
      "priceStatus": null,
      "description": "Keep your neck warm!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -18561,7 +18753,7 @@
     {
      "id": 88199050158666,
      "name": "Sword",
-     "favorites": 824,
+     "favorites": 825,
      "price": 140,
      "priceStatus": null,
      "description": "Crafted From The Finest Molten Steel\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18573,7 +18765,7 @@
     {
      "id": 17160776735,
      "name": "Duck",
-     "favorites": 796,
+     "favorites": 797,
      "price": 140,
      "priceStatus": null,
      "description": "Cute and cuddly\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -18597,7 +18789,7 @@
     {
      "id": 17151432379,
      "name": "Duck",
-     "favorites": 712,
+     "favorites": 713,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18717,7 +18909,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 420,
+     "favorites": 421,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -19355,7 +19547,7 @@
      "name": "Mask",
      "favorites": 133,
      "price": 0,
-     "priceStatus": null,
+     "priceStatus": "Off Sale",
      "description": "Golden ",
      "creator": "8O8Mph",
      "image": "https://tr.rbxcdn.com/180DAY-b2b47eaa32843eec267a5241148ace38/420/420/FaceAccessory/Png/noFilter",
@@ -19879,6 +20071,18 @@
      "created": "2023-08-01T09:20:17.73Z"
     },
     {
+     "id": 135268465969951,
+     "name": "Turtle Neck",
+     "favorites": 74,
+     "price": 55,
+     "priceStatus": null,
+     "description": "Keep your neck warm!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
+     "creator": "8O8Mph",
+     "image": "https://tr.rbxcdn.com/180DAY-4d46ff94dd285dbe841884932aed8722/420/420/NeckAccessory/Png/noFilter",
+     "category": "Neck Accessories",
+     "created": "2025-06-17T20:47:16.027Z"
+    },
+    {
      "id": 14708752152,
      "name": "Bat Necklace (1.0)",
      "favorites": 74,
@@ -19889,18 +20093,6 @@
      "image": "https://tr.rbxcdn.com/180DAY-e8779eb6bf3b22fcd202847dc3f7a7ea/420/420/NeckAccessory/Png/noFilter",
      "category": "Neck Accessories",
      "created": "2023-09-07T15:30:51.133Z"
-    },
-    {
-     "id": 135268465969951,
-     "name": "Turtle Neck",
-     "favorites": 73,
-     "price": 55,
-     "priceStatus": null,
-     "description": "Keep your neck warm!\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
-     "creator": "8O8Mph",
-     "image": "https://tr.rbxcdn.com/180DAY-4d46ff94dd285dbe841884932aed8722/420/420/NeckAccessory/Png/noFilter",
-     "category": "Neck Accessories",
-     "created": "2025-06-17T20:47:16.027Z"
     },
     {
      "id": 108014557672700,
@@ -20186,7 +20378,7 @@
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
      "creator": "8O8Mph",
-     "image": "https://tr.rbxcdn.com/180DAY-1ffdcbcd0be00ee20d921b95f26756a0/420/420/HairAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-042e6140ce2bf16e6848da191df12d6b/420/420/HairAccessory/Png/noFilter",
      "category": "Hair",
      "created": "2023-06-27T21:10:52.907Z"
     },
@@ -22082,7 +22274,7 @@
      "priceStatus": null,
      "description": "Works best with Dominus Formidulosus\nhttps://www.roblox.com/catalog/4255053867/Dominus-Formidulosus",
      "creator": "8O8Mph",
-     "image": "https://tr.rbxcdn.com/180DAY-c1ece4efbd1ac0d379f146b757d7559c/420/420/FaceAccessory/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-e2e40bc27e9a5b3aa8521f67413a66ac/420/420/FaceAccessory/Png/noFilter",
      "category": "Face Accessories",
      "created": "2024-01-06T10:20:20.69Z"
     },
@@ -23833,14 +24025,14 @@
   {
    "id": 5948929,
    "name": "kwarm",
-   "memberCount": 973618,
+   "memberCount": 973624,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ee5928899b4e9c25822757759eec039e/150/150/Image/Png/noFilter"
   },
   {
    "id": 7498332,
    "name": "Round 2 NYC",
-   "memberCount": 438164,
+   "memberCount": 438163,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-802c67da49c945b82b69ea48a8e46413/150/150/Image/Png/noFilter"
   },
@@ -23854,14 +24046,14 @@
   {
    "id": 11636314,
    "name": "Astra's Army",
-   "memberCount": 633735,
+   "memberCount": 633794,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ef57596e8373177cdf112b39e300910c/150/150/Image/Png/noFilter"
   },
   {
    "id": 8108593,
    "name": "’kuma",
-   "memberCount": 28687,
+   "memberCount": 28686,
    "hasVerifiedBadge": false,
    "icon": "https://tr.rbxcdn.com/180DAY-0cf158df21f54657f1e123a1a708c858/150/150/Image/Png/noFilter"
   }
