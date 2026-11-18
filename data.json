@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:40:37.218Z",
+ "updated": "2026-11-18T13:37:39.886Z",
  "groups": [
   {
    "id": 32663795,
@@ -2841,7 +2841,7 @@
    "id": 16114977,
    "type": "Group",
    "name": "UGC Shack",
-   "memberCount": 7991,
+   "memberCount": 7990,
    "hasVerifiedBadge": false,
    "latest": [
     {
@@ -3303,7 +3303,7 @@
     {
      "id": 128511153754209,
      "name": "Pizza 🍕",
-     "favorites": 25,
+     "favorites": 26,
      "price": 55,
      "priceStatus": null,
      "description": "🍕 Pair with Pizza:\nhttps://www.roblox.com/catalog/111741897911952/Pizza\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4841,7 +4841,7 @@
     {
      "id": 128511153754209,
      "name": "Pizza 🍕",
-     "favorites": 25,
+     "favorites": 26,
      "price": 55,
      "priceStatus": null,
      "description": "🍕 Pair with Pizza:\nhttps://www.roblox.com/catalog/111741897911952/Pizza\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -4923,16 +4923,16 @@
      "created": "2024-02-10T12:07:28.883Z"
     },
     {
-     "id": 16310663849,
-     "name": "Mask 😈",
-     "favorites": 64,
+     "id": 14347425662,
+     "name": "Funny 😂",
+     "favorites": 39,
      "price": 95,
      "priceStatus": null,
-     "description": "No face no case\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
+     "description": "Funny\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
      "creator": "UGC Shack",
-     "image": "https://tr.rbxcdn.com/180DAY-a5f11b66687a184b7c71f7a4833ce20f/420/420/Hat/Png/noFilter",
+     "image": "https://tr.rbxcdn.com/180DAY-ee8c4827e1ee5a4911ef812146b5c8d1/420/420/Hat/Png/noFilter",
      "category": "Hats",
-     "created": "2024-02-10T12:09:22.887Z"
+     "created": "2023-08-07T10:05:02.31Z"
     }
    ],
    "favorited": [
@@ -5407,7 +5407,7 @@
     {
      "id": 128511153754209,
      "name": "Pizza 🍕",
-     "favorites": 25,
+     "favorites": 26,
      "price": 55,
      "priceStatus": null,
      "description": "🍕 Pair with Pizza:\nhttps://www.roblox.com/catalog/111741897911952/Pizza\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -6670,7 +6670,7 @@
    "id": 564029410,
    "type": "Group",
    "name": "Mx8",
-   "memberCount": 45,
+   "memberCount": 48,
    "hasVerifiedBadge": false,
    "latest": [
     {
@@ -8284,7 +8284,7 @@
     {
      "id": 128734112286569,
      "name": "Skateboard 👻",
-     "favorites": 0,
+     "favorites": 1,
      "price": 140,
      "priceStatus": null,
      "description": "Skate through the Spooky season!",
@@ -9232,7 +9232,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1467,
+     "favorites": 1469,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9594,7 +9594,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1468,
+     "favorites": 1469,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9956,7 +9956,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1467,
+     "favorites": 1469,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -11370,6 +11370,18 @@
      "created": "2026-10-02T18:58:01.96Z"
     },
     {
+     "id": 128734112286569,
+     "name": "Skateboard 👻",
+     "favorites": 1,
+     "price": 140,
+     "priceStatus": null,
+     "description": "Skate through the Spooky season!",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-3890121d94837093c169d1f61dd42142/420/420/BackAccessory/Png/noFilter",
+     "category": "Back Accessories",
+     "created": "2026-10-02T18:45:21.558Z"
+    },
+    {
      "id": 116600315436794,
      "name": "Skateboard ❤️",
      "favorites": 1,
@@ -12604,18 +12616,6 @@
      "image": "https://tr.rbxcdn.com/180DAY-333b4a465d408a545104a5cbdfa37779/420/420/BackAccessory/Png/noFilter",
      "category": "Back Accessories",
      "created": "2026-10-02T18:46:55.718Z"
-    },
-    {
-     "id": 128734112286569,
-     "name": "Skateboard 👻",
-     "favorites": 0,
-     "price": 140,
-     "priceStatus": null,
-     "description": "Skate through the Spooky season!",
-     "creator": "Mx8",
-     "image": "https://tr.rbxcdn.com/180DAY-3890121d94837093c169d1f61dd42142/420/420/BackAccessory/Png/noFilter",
-     "category": "Back Accessories",
-     "created": "2026-10-02T18:45:21.558Z"
     },
     {
      "id": 124360672262344,
@@ -13097,7 +13097,7 @@
     {
      "id": 90143155263723,
      "name": "Knee Bounce",
-     "favorites": 189,
+     "favorites": 190,
      "price": 55,
      "priceStatus": null,
      "description": "Bounce To The Music",
@@ -13913,7 +13913,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7885,
+     "favorites": 7886,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -15353,7 +15353,7 @@
     {
      "id": 15982632068,
      "name": "Mask ",
-     "favorites": 241,
+     "favorites": 242,
      "price": 95,
      "priceStatus": null,
      "description": "No face no case\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -17357,7 +17357,7 @@
     {
      "id": 14486194113,
      "name": "Devil Horns",
-     "favorites": 701,
+     "favorites": 702,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -18343,7 +18343,7 @@
     {
      "id": 14486194113,
      "name": "Devil Horns",
-     "favorites": 701,
+     "favorites": 702,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -18633,7 +18633,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7885,
+     "favorites": 7886,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18801,7 +18801,7 @@
     {
      "id": 14486194113,
      "name": "Devil Horns",
-     "favorites": 701,
+     "favorites": 702,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -19077,7 +19077,7 @@
     {
      "id": 15982632068,
      "name": "Mask ",
-     "favorites": 241,
+     "favorites": 242,
      "price": 95,
      "priceStatus": null,
      "description": "No face no case\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph",
@@ -19281,7 +19281,7 @@
     {
      "id": 90143155263723,
      "name": "Knee Bounce",
-     "favorites": 189,
+     "favorites": 190,
      "price": 55,
      "priceStatus": null,
      "description": "Bounce To The Music",
@@ -24025,35 +24025,35 @@
   {
    "id": 5948929,
    "name": "kwarm",
-   "memberCount": 974040,
+   "memberCount": 974067,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ee5928899b4e9c25822757759eec039e/150/150/Image/Png/noFilter"
   },
   {
    "id": 7498332,
    "name": "Round 2 NYC",
-   "memberCount": 438168,
+   "memberCount": 438167,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-802c67da49c945b82b69ea48a8e46413/150/150/Image/Png/noFilter"
   },
   {
    "id": 17192115,
    "name": "yosemitе",
-   "memberCount": 9442,
+   "memberCount": 9441,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-87249609dae614261c1058785f217b72/150/150/UnapprovedImage/Png/noFilter"
   },
   {
    "id": 11636314,
    "name": "Astra's Army",
-   "memberCount": 634989,
+   "memberCount": 635037,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ef57596e8373177cdf112b39e300910c/150/150/Image/Png/noFilter"
   },
   {
    "id": 8108593,
    "name": "’kuma",
-   "memberCount": 28729,
+   "memberCount": 28726,
    "hasVerifiedBadge": false,
    "icon": "https://tr.rbxcdn.com/180DAY-0cf158df21f54657f1e123a1a708c858/150/150/Image/Png/noFilter"
   }
