@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:40:46.743Z",
+ "updated": "2026-11-24T13:41:33.836Z",
  "groups": [
   {
    "id": 32663795,
@@ -6670,7 +6670,7 @@
    "id": 564029410,
    "type": "Group",
    "name": "Mx8",
-   "memberCount": 49,
+   "memberCount": 50,
    "hasVerifiedBadge": false,
    "latest": [
     {
@@ -9232,7 +9232,7 @@
     {
      "id": 111309142240873,
      "name": "Ghost 👻",
-     "favorites": 13,
+     "favorites": 14,
      "price": 95,
      "priceStatus": null,
      "description": "🎃A frightning little fella!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9304,7 +9304,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1524,
+     "favorites": 1525,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9580,7 +9580,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 221,
+     "favorites": 222,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9592,7 +9592,7 @@
     {
      "id": 111454657524666,
      "name": "Hair 🤎",
-     "favorites": 120,
+     "favorites": 122,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9666,7 +9666,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1524,
+     "favorites": 1525,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9678,7 +9678,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 221,
+     "favorites": 222,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9690,7 +9690,7 @@
     {
      "id": 111454657524666,
      "name": "Hair 🤎",
-     "favorites": 120,
+     "favorites": 122,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9786,7 +9786,7 @@
     {
      "id": 111309142240873,
      "name": "Ghost 👻",
-     "favorites": 13,
+     "favorites": 14,
      "price": 95,
      "priceStatus": null,
      "description": "🎃A frightning little fella!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10028,7 +10028,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1524,
+     "favorites": 1525,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10040,7 +10040,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 221,
+     "favorites": 222,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10052,7 +10052,7 @@
     {
      "id": 111454657524666,
      "name": "Hair 🤎",
-     "favorites": 120,
+     "favorites": 122,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10302,6 +10302,18 @@
      "created": "2026-04-13T17:09:03.335Z"
     },
     {
+     "id": 111309142240873,
+     "name": "Ghost 👻",
+     "favorites": 14,
+     "price": 95,
+     "priceStatus": null,
+     "description": "🎃A frightning little fella!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
+     "creator": "Mx8",
+     "image": "https://tr.rbxcdn.com/180DAY-3352b93293449c457f2f91224dfa9f81/420/420/Hat/Png/noFilter",
+     "category": "Hats",
+     "created": "2025-10-12T10:11:37.903Z"
+    },
+    {
      "id": 70610968465353,
      "name": "Duck Yellow Vampire Plushie ",
      "favorites": 14,
@@ -10336,18 +10348,6 @@
      "image": "https://tr.rbxcdn.com/180DAY-fe304c9341c8725eaa35f0fa1e90c2bc/420/420/FaceAccessory/Png/noFilter",
      "category": "Face Accessories",
      "created": "2026-04-13T17:03:02.199Z"
-    },
-    {
-     "id": 111309142240873,
-     "name": "Ghost 👻",
-     "favorites": 13,
-     "price": 95,
-     "priceStatus": null,
-     "description": "🎃A frightning little fella!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
-     "creator": "Mx8",
-     "image": "https://tr.rbxcdn.com/180DAY-3352b93293449c457f2f91224dfa9f81/420/420/Hat/Png/noFilter",
-     "category": "Hats",
-     "created": "2025-10-12T10:11:37.903Z"
     },
     {
      "id": 135006434237949,
@@ -14057,7 +14057,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7908,
+     "favorites": 7909,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -14117,7 +14117,7 @@
     {
      "id": 16925898296,
      "name": "Mask",
-     "favorites": 98,
+     "favorites": 99,
      "price": 95,
      "priceStatus": null,
      "description": "Terrifying Disguise\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -16265,7 +16265,7 @@
     {
      "id": 15481935742,
      "name": "Horns",
-     "favorites": 132,
+     "favorites": 133,
      "price": 95,
      "priceStatus": null,
      "description": "Points sharper than a needle\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1\n",
@@ -18293,7 +18293,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 428,
+     "favorites": 429,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -18427,7 +18427,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7908,
+     "favorites": 7909,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18595,7 +18595,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 428,
+     "favorites": 429,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -18777,7 +18777,7 @@
     {
      "id": 17151464401,
      "name": "Duck",
-     "favorites": 7908,
+     "favorites": 7909,
      "price": 95,
      "priceStatus": null,
      "description": "Cute and cuddly\n\nHis Evil Brother:\nhttps://www.roblox.com/catalog/119258899293884/Duck\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -19041,7 +19041,7 @@
     {
      "id": 13883988942,
      "name": "Hair",
-     "favorites": 428,
+     "favorites": 429,
      "price": 65,
      "priceStatus": null,
      "description": "Dont touch my hair its spikey!\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1",
@@ -19701,7 +19701,7 @@
     {
      "id": 15481935742,
      "name": "Horns",
-     "favorites": 132,
+     "favorites": 133,
      "price": 95,
      "priceStatus": null,
      "description": "Points sharper than a needle\n\nBuy more here!!\nhttps://www.roblox.com/catalog?Category=1&CreatorName=8o8mph&salesTypeFilter=1\n",
@@ -20001,7 +20001,7 @@
     {
      "id": 16925898296,
      "name": "Mask",
-     "favorites": 98,
+     "favorites": 99,
      "price": 95,
      "priceStatus": null,
      "description": "Terrifying Disguise\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!",
@@ -24169,14 +24169,14 @@
   {
    "id": 5948929,
    "name": "kwarm",
-   "memberCount": 974466,
+   "memberCount": 974471,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ee5928899b4e9c25822757759eec039e/150/150/Image/Png/noFilter"
   },
   {
    "id": 7498332,
    "name": "Round 2 NYC",
-   "memberCount": 438164,
+   "memberCount": 438162,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-802c67da49c945b82b69ea48a8e46413/150/150/Image/Png/noFilter"
   },
@@ -24190,7 +24190,7 @@
   {
    "id": 11636314,
    "name": "Astra's Army",
-   "memberCount": 635972,
+   "memberCount": 636002,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ef57596e8373177cdf112b39e300910c/150/150/Image/Png/noFilter"
   },
