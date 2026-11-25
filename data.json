@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:36:44.028Z",
+ "updated": "2026-11-25T07:44:40.083Z",
  "groups": [
   {
    "id": 32663795,
@@ -2907,7 +2907,7 @@
     {
      "id": 82134557094913,
      "name": "Reindeer Christmas Headband 🦌",
-     "favorites": 2,
+     "favorites": 3,
      "price": 95,
      "priceStatus": null,
      "description": "🎅🏻Time to get into the Christmas spirit!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
@@ -6005,6 +6005,18 @@
      "created": "2025-10-19T22:58:06.227Z"
     },
     {
+     "id": 82134557094913,
+     "name": "Reindeer Christmas Headband 🦌",
+     "favorites": 3,
+     "price": 95,
+     "priceStatus": null,
+     "description": "🎅🏻Time to get into the Christmas spirit!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
+     "creator": "UGC Shack",
+     "image": "https://tr.rbxcdn.com/180DAY-92a8daaf66c72a073823ef4c3af516c6/420/420/Hat/Png/noFilter",
+     "category": "Hats",
+     "created": "2025-12-24T18:18:27.027Z"
+    },
+    {
      "id": 94006590505227,
      "name": "Guitar 🎸",
      "favorites": 3,
@@ -6099,18 +6111,6 @@
      "image": "https://tr.rbxcdn.com/180DAY-b6f5a530569f49f6f67d4768061d1e55/420/420/FaceAccessory/Png/noFilter",
      "category": "Face Accessories",
      "created": "2025-10-19T22:57:30.037Z"
-    },
-    {
-     "id": 82134557094913,
-     "name": "Reindeer Christmas Headband 🦌",
-     "favorites": 2,
-     "price": 95,
-     "priceStatus": null,
-     "description": "🎅🏻Time to get into the Christmas spirit!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/16114977/UGC-Shack#!/store",
-     "creator": "UGC Shack",
-     "image": "https://tr.rbxcdn.com/180DAY-92a8daaf66c72a073823ef4c3af516c6/420/420/Hat/Png/noFilter",
-     "category": "Hats",
-     "created": "2025-12-24T18:18:27.027Z"
     },
     {
      "id": 107759489177189,
@@ -9304,7 +9304,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1530,
+     "favorites": 1531,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9532,7 +9532,7 @@
     {
      "id": 135642545138434,
      "name": "Hair 💙",
-     "favorites": 36,
+     "favorites": 37,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9580,7 +9580,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 224,
+     "favorites": 225,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9666,7 +9666,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1530,
+     "favorites": 1531,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9678,7 +9678,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 224,
+     "favorites": 225,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -9762,7 +9762,7 @@
     {
      "id": 135642545138434,
      "name": "Hair 💙",
-     "favorites": 36,
+     "favorites": 37,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10028,7 +10028,7 @@
     {
      "id": 131117047023604,
      "name": "Knife 🔪",
-     "favorites": 1530,
+     "favorites": 1531,
      "price": 95,
      "priceStatus": null,
      "description": "Fool your friends!\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10040,7 +10040,7 @@
     {
      "id": 89191246956909,
      "name": "Hair 🖤",
-     "favorites": 224,
+     "favorites": 225,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -10148,7 +10148,7 @@
     {
      "id": 135642545138434,
      "name": "Hair 💙",
-     "favorites": 36,
+     "favorites": 37,
      "price": 65,
      "priceStatus": null,
      "description": "🪮Styled by @1ovre\n\n🛍️Buy more here:\nhttps://www.roblox.com/communities/564029410/Mx8#!/store",
@@ -16169,7 +16169,7 @@
     {
      "id": 15481897117,
      "name": "Money",
-     "favorites": 5128,
+     "favorites": 5129,
      "price": 55,
      "priceStatus": null,
      "description": "I wonder how many Robux i could buy with this....hmmm\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -17549,7 +17549,7 @@
     {
      "id": 14486188919,
      "name": "Devil Horns",
-     "favorites": 3982,
+     "favorites": 3983,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nTail: \nhttps://www.roblox.com/catalog/14486178596/Devil-Tail\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18415,7 +18415,7 @@
     {
      "id": 15481897117,
      "name": "Money",
-     "favorites": 5128,
+     "favorites": 5129,
      "price": 55,
      "priceStatus": null,
      "description": "I wonder how many Robux i could buy with this....hmmm\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18439,7 +18439,7 @@
     {
      "id": 14486188919,
      "name": "Devil Horns",
-     "favorites": 3982,
+     "favorites": 3983,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nTail: \nhttps://www.roblox.com/catalog/14486178596/Devil-Tail\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18801,7 +18801,7 @@
     {
      "id": 15481897117,
      "name": "Money",
-     "favorites": 5128,
+     "favorites": 5129,
      "price": 55,
      "priceStatus": null,
      "description": "I wonder how many Robux i could buy with this....hmmm\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -18813,7 +18813,7 @@
     {
      "id": 14486188919,
      "name": "Devil Horns",
-     "favorites": 3982,
+     "favorites": 3983,
      "price": 95,
      "priceStatus": null,
      "description": "Sharper than a vampires teeth!\n\nTail: \nhttps://www.roblox.com/catalog/14486178596/Devil-Tail\n\n🛍️Buy more here:\nhttps://www.roblox.com/catalog?Category=1&Subcategory=40&CreatorName=8o8mph!\n🛍️And here:\nhttps://www.roblox.com/communities/16114977/Lxrid#!/store",
@@ -24169,14 +24169,14 @@
   {
    "id": 5948929,
    "name": "kwarm",
-   "memberCount": 974490,
+   "memberCount": 974509,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ee5928899b4e9c25822757759eec039e/150/150/Image/Png/noFilter"
   },
   {
    "id": 7498332,
    "name": "Round 2 NYC",
-   "memberCount": 438166,
+   "memberCount": 438165,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-802c67da49c945b82b69ea48a8e46413/150/150/Image/Png/noFilter"
   },
@@ -24190,14 +24190,14 @@
   {
    "id": 11636314,
    "name": "Astra's Army",
-   "memberCount": 636053,
+   "memberCount": 636073,
    "hasVerifiedBadge": true,
    "icon": "https://tr.rbxcdn.com/180DAY-ef57596e8373177cdf112b39e300910c/150/150/Image/Png/noFilter"
   },
   {
    "id": 8108593,
    "name": "’kuma",
-   "memberCount": 28762,
+   "memberCount": 28763,
    "hasVerifiedBadge": false,
    "icon": "https://tr.rbxcdn.com/180DAY-0cf158df21f54657f1e123a1a708c858/150/150/Image/Png/noFilter"
   }
